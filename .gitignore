@@ -1,0 +1,4 @@
+../yeti/.idea
+__pycache__
+*.sqlite
+token
